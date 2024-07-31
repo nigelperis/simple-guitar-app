@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import GuitarBody from './GuitarBody.js';
-import Fretboard from './Fretboard.js';
+import Fretboard from './FretBoard.js';
 
 function Guitar(){
 
